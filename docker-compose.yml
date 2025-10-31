@@ -1,0 +1,43 @@
+version: "3.8"
+
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    depends_on:
+      - mongo
+    volumes:
+      - ./backend:/app
+    command: >
+      uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
+    environment:
+      # - MONGO_URI=mongodb+srv://acuitiai_db_user:o9Ps0WqiT5XHYzUK@bloodworkai.bbjel93.mongodb.net/
+      - LOG_CFG=/app/app/Nlog.yaml
+      - PYTHONUNBUFFERED=1
+
+  mongo:
+    image: mongo:6
+    container_name: mongodb
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules # Prevent overwrite from host
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+      - WATCHPACK_POLLING=true
+      - WATCHPACK_POLLING_INTERVAL=100
+
+    stdin_open: true
+    tty: true
+
+volumes:
+  mongo_data:

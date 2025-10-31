@@ -1,0 +1,17 @@
+fastapi==0.110.0
+uvicorn
+motor
+pydantic==2.6.4
+pydantic-settings==2.0.3
+python-jose
+pyjwt
+email-validator
+fastapi-mail==1.4.1
+pyyaml==6.0
+passlib[bcrypt]==1.7.4
+bcrypt==3.2.2
+authlib
+itsdangerous
+httpx
+fpdf
+python-multipart

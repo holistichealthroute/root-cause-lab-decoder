@@ -1,0 +1,234 @@
+[
+    {
+      "_id": "supplement_001",
+      "name": "Adrenamax",
+      "productLink": "https://shop.holistichealthroute.com/adrenamax-90-veg-caps.html",
+      "dosage": "Take 3 capsules, 1 time daily",
+      "description": "Adrenamax is a comprehensive adrenal support formula featuring a blend of vitamins, minerals, adaptogenic herbs, and glandular extracts to promote optimal adrenal function. Ingredients such as ashwagandha, rhodiola, licorice root, and adrenal glandulars help enhance stress resilience, balance cortisol levels, improve energy, and support overall hormonal balance.",
+      "is_active": true
+    },
+    {
+      "_id": "supplement_002",
+      "name": "CandiKill",
+      "productLink": "https://shop.holistichealthroute.com/candikill-120-veg-capsules.html",
+      "dosage": "Take 4 caps per day in the AM",
+      "description": "CandiKill is a targeted herbal formula designed to support a healthy balance of yeast and fungal organisms in the body. Featuring caprylic acid, pau d'arco, oregano oil, black walnut, and other botanicals, this blend helps disrupt the growth of Candida and other fungal strains while supporting detox pathways. Ideal for use during gut restoration protocols to promote microbiome balance and intestinal health.",
+      "is_active": true
+    },
+    {
+      "_id": "supplement_003",
+      "name": "CircuCore",
+      "productLink": "https://shop.holistichealthroute.com/circucore-120-veg-capsules.html",
+      "dosage": "Take two capsules daily",
+      "description": "CircuCore is a plant-based supplement that may support healthy circulation, blood vessel strength, and oxygen delivery throughout the body, which can help improve energy, reduce heaviness in the legs, and promote overall cardiovascular wellness.",
+      "is_active": true
+    },
+    {
+      "_id": "supplement_004",
+      "name": "CT-Biotic",
+      "productLink": "https://shop.holistichealthroute.com/ct-biotic-60-capsules.html",
+      "dosage": "Take 1 capsule twice daily",
+      "description": "CT-Biotic is a spore-based probiotic and herbal blend designed to support healthy digestion, microbiome diversity, and immune function. Formulated with Bacillus subtilis, Bacillus coagulans, humic and fulvic acids, and a proprietary herbal complex, CT-Biotic helps reinforce the intestinal barrier, promote balanced gut flora, and optimize nutrient absorption. Its resilient probiotic strains are shelf-stable and survive stomach acid, ensuring delivery to the intestines where they are most effective.",
+      "is_active": true
+    },
+    {
+      "_id": "supplement_005",
+      "name": "D3 5000 IU",
+      "productLink": "https://shop.holistichealthroute.com/d3-5000-iu-120-veg-capsules.html",
+      "dosage": "Take 1 capsule daily",
+      "description": "This high-potency formula provides 5,000 IU of vitamin D3 (cholecalciferol) per capsule to support strong bones, healthy immune function, and mood regulation. Vitamin D3 plays a critical role in calcium absorption, hormone balance, and inflammatory response—making it essential for whole-body wellness, especially for those with low sun exposure or poor absorption.",
+      "is_active": true
+    },
+    {
+      "_id": "supplement_006",
+      "name": "D3-K2 Complete",
+      "productLink": "https://shop.holistichealthroute.com/d3-k2-complete-60-ct.html",
+      "dosage": "Take 1 capsule daily",
+      "description": "D3-K2 Complete combines high-potency vitamin D3 with vitamin K2 (as MK-7) to support optimal calcium metabolism, bone strength, and cardiovascular health. Vitamin D3 enhances calcium absorption, while vitamin K2 helps direct calcium into the bones and teeth where it belongs, preventing deposition in arteries and soft tissues. This synergistic formula supports immune function, mood balance, and overall vitality.",
+      "is_active": true
+    },
+    {
+      "_id": "supplement_007",
+      "name": "EZ Iron",
+      "productLink": "https://shop.holistichealthroute.com/ez-iron-60-veg-capsules.html",
+      "dosage": "Take 1 capsule daily, with meals",
+      "description": "EZ Iron provides a gentle, highly absorbable form of iron (ferric glycinate) that supports healthy red blood cell production, oxygen transport, and energy levels—without the common gastrointestinal discomfort associated with standard iron supplements. Enhanced with vitamin C for improved absorption, EZ Iron is ideal for individuals with low ferritin or iron deficiency who require a well-tolerated, effective supplement",
+      "is_active": true
+    },
+    {
+      "_id": "supplement_008",
+      "name": "Frontier Multi",
+      "productLink": "https://shop.holistichealthroute.com/frontier-multivitamin-120-veg-capsules.html",
+      "dosage": "Take 4 capsules daily with food",
+      "description": "This professional-grade multivitamin provides a complete spectrum of essential vitamins and minerals in highly bioavailable forms to support foundational health. It's ideal for anyone looking to fill nutrient gaps, boost energy, and support immune, hormonal, and metabolic function. Designed for both men and women, this formula works well as a general support option when no gender-specific multivitamin is recommended.",
+      "is_active": true
+    },
+    {
+      "_id": "supplement_009",
+      "name": "GI Complete",
+      "productLink": "https://shop.holistichealthroute.com/gi-complete-capsules-300-veg-capsules.html",
+      "dosage": "Take 5 capsules, 1 time daily",
+      "description": "GI Complete is a comprehensive gut repair formula featuring L-glutamine, aloe vera, slippery elm, marshmallow root, licorice root, and zinc carnosine. It is designed to soothe and heal the intestinal lining, reduce inflammation, and support overall digestive health. This formula is ideal for individuals with leaky gut, chronic digestive discomfort, or those undergoing gut restoration protocols.",
+      "is_active": true
+    },
+    {
+      "_id": "supplement_010",
+      "name": "Glucolyze",
+      "productLink": "https://shop.holistichealthroute.com/glucolyze-120-capsules.html",
+      "dosage": "Take 2 capsules with food, twice per day",
+      "description": "Glucolyze is a targeted metabolic support formula designed to help maintain healthy blood sugar levels and improve insulin sensitivity. It contains berberine, alpha-lipoic acid, chromium, and other botanicals and nutrients that support glucose metabolism, reduce sugar cravings, and promote balanced energy throughout the day.",
+      "is_active": true
+    },
+    {
+      "_id": "supplement_011",
+      "name": "ImmunoMax",
+      "productLink": "https://shop.holistichealthroute.com/immunomax-60-veg-capsules.html",
+      "dosage": "Take 2 capsules 2 times per day",
+      "description": "ImmunoMax is a powerful blend of immune-supportive nutrients, including arabinogalactan, olive leaf extract, and beta-glucans, combined with key vitamins and minerals. It is designed to enhance immune system performance, promote healthy inflammatory response, and provide antioxidant protection. This formula is ideal for supporting immune defenses during seasonal changes, times of stress, or increased exposure to environmental challenges.",
+      "is_active": true
+    },
+    {
+      "_id": "supplement_012",
+      "name": "Intestinal Restore",
+      "productLink": "https://shop.holistichealthroute.com/intestinal-restore.html",
+      "dosage": "10 drops under the tongue, 3 times a day",
+      "description": "Intestinal Restore supports gastrointestinal health by strengthening the integrity of the intestinal lining, soothing inflamed tissues, and encouraging healthy digestion of macronutrients. Contains L Glutamine, Tegricel® Colostrum, a DIGEZYME® multienzyme complex, and botanical demulcents like licorice, fennel, aloe vera, slippery elm, and marshmallow.",
+      "is_active": true
+    },
+    {
+      "_id": "supplement_013",
+      "name": "Kidney & Bladder Herbal Tincture",
+      "productLink": "https://shop.holistichealthroute.com/kidney-bladder-2-oz-organic-herbal-tincture.html",
+      "dosage": "2 dropperfuls, 2 times daily, can add to water or juice.",
+      "description": "This organic herbal blend is formulated to gently support kidney and bladder function while promoting healthy fluid balance and detoxification. It features corn silk, juniper berry, uva ursi, parsley leaf, dandelion leaf, horsetail, and plantain—all traditionally used to soothe the urinary tract, flush out toxins, and reduce inflammation. It's ideal during cleansing protocols or anytime the kidneys need extra support.",
+      "is_active": true
+    },
+    {
+      "_id": "supplement_014",
+      "name": "LivComplete",
+      "productLink": "https://shop.holistichealthroute.com/livcomplete-90-capsules.html",
+      "dosage": "Take 3 capsules per day with food",
+      "description": "LivComplete is a comprehensive liver support formula featuring a synergistic blend of herbs and nutrients known to promote liver detoxification, bile flow, and cellular regeneration. Key ingredients include milk thistle, dandelion root, turmeric, NAC, and alpha-lipoic acid. This formula may help support liver enzyme balance, reduce toxin load, and protect liver cells from oxidative stress—making it ideal for use during cleansing protocols or ongoing liver maintenance.",
+      "is_active": true
+    },
+    {
+      "_id": "supplement_015",
+      "name": "L-Lysine",
+      "productLink": "https://shop.holistichealthroute.com/l-lysine-120-veg-capsules.html",
+      "dosage": "Take 1 capsule, 3 times daily between meals",
+      "description": "L-Lysine is an essential amino acid that supports immune function, collagen formation, calcium absorption, and tissue repair. It is especially known for helping the body combat herpes simplex virus (HSV) outbreaks, promoting skin health, and supporting wound healing. Since the body cannot produce lysine, supplementation ensures optimal levels for overall immune and connective tissue support.",
+      "is_active": true
+    },
+    {
+      "_id": "supplement_016",
+      "name": "Mag Complete 300",
+      "productLink": "https://shop.holistichealthroute.com/mag-complete-300-120-veg-capsules.html",
+      "dosage": "Take 4 capsules daily",
+      "description": "A highly absorbable magnesium blend that supports relaxation, muscle function, cardiovascular health, and energy production. Formulated to replenish magnesium levels and promote overall calm and balance.",
+      "is_active": true
+    },
+    {
+      "_id": "supplement_017",
+      "name": "Micro-Gone",
+      "productLink": "https://shop.holistichealthroute.com/micro-gone-2-oz-organic-herbal-tincture.html",
+      "dosage": "2 dropperfuls, 3 times daily",
+      "description": "Micro-Gone is an organic herbal tincture designed to target harmful microbes in the body while supporting immune and detoxification functions. It contains a synergistic blend of herbs such as black walnut hulls, olive leaf, cat's claw, and oregano, known for their antimicrobial, antifungal, and antiparasitic properties. This liquid formula allows for rapid absorption and is an excellent choice for microbial cleansing protocols.",
+      "is_active": true
+    },
+    {
+      "_id": "supplement_018",
+      "name": "Omega-3D",
+      "productLink": "https://shop.holistichealthroute.com/omega-3d-60-lemon-flavored-softgels.html",
+      "dosage": "Take two (2) softgels once daily",
+      "description": "Omega-3D delivers a high-potency dose of omega-3 fatty acids (EPA and DHA) from purified fish oil, combined with vitamin D3 for synergistic cardiovascular, brain, immune, and musculoskeletal support. Molecularly distilled for purity and flavored with natural lemon to reduce fishy aftertaste, this formula helps maintain healthy inflammation balance, cognitive performance, and overall wellness.",
+      "is_active": true
+    },
+    {
+      "_id": "supplement_019",
+      "name": "Para-Kill",
+      "productLink": "https://shop.holistichealthroute.com/para-kill-240-ct.html",
+      "dosage": "Take 4 caps per day",
+      "description": "Para-Kill is a potent herbal blend formulated to help eliminate intestinal parasites and harmful organisms while supporting digestive and immune health. It combines wormwood, black walnut hulls, cloves, oregano oil, and other botanicals traditionally used to disrupt the life cycle of parasites. This formula also supports detox pathways, making it ideal for gut cleansing protocols.",
+      "is_active": true
+    },
+    {
+      "_id": "supplement_020",
+      "name": "Power Fuel",
+      "productLink": "https://shop.holistichealthroute.com/power-fuel-berry-30-srvg-powder.html",
+      "dosage": "Mix one scoop with 12 oz. of cold water daily",
+      "description": "Power Fuel is a berry-flavored powdered formula designed to boost cellular energy, stamina, and recovery. It contains creatine, carnitine, ribose, CoQ10, and a blend of key electrolytes to enhance ATP production, improve exercise performance, and reduce fatigue. Ideal for athletes, active individuals, or anyone needing a sustained energy lift without stimulants.",
+      "is_active": true
+    },
+    {
+      "_id": "supplement_021",
+      "name": "Pro Lean Greens",
+      "productLink": "https://shop.holistichealthroute.com/pro-lean-greens-chocolate-flavor-30-servings.html",
+      "dosage": "Mix 1 heaping scoop daily in 8 oz. of cold water or non-dairy milk",
+      "description": "Pro Lean Greens is a nutrient-rich superfood powder combining organic greens, fruits, vegetables, fiber, and digestive enzymes. It supports detoxification, gut health, and alkalinity while boosting antioxidant status and daily nutrient intake. The chocolate flavor makes it an enjoyable way to increase plant-based nutrition in your diet.",
+      "is_active": true
+    },
+    {
+      "_id": "supplement_022",
+      "name": "PureZyme",
+      "productLink": "https://shop.holistichealthroute.com/purezyme-120-capsules.html",
+      "dosage": "Take 2 capsules first thing in the morning and right before bed",
+      "description": "PureZyme is well tolerated, GI and pH stable proteolytic enzymes designed for natural support of the cardiovascular system for supporting muscular health... Protease enzymes assist the body in maximum digestion of nutrients, energy production, and immune support... Formulated with calcium for improved GI tolerance, it supports systemic balance when taken with or without food.",
+      "is_active": true
+    },
+    {
+      "_id": "supplement_023",
+      "name": "SBC",
+      "productLink": "https://shop.holistichealthroute.com/sbc-90-veg-capsules.html",
+      "dosage": "Take 1 capsule on an empty stomach or between meals, three times per day",
+      "description": "SBC (Saccharomyces boulardii Complex) is a beneficial probiotic yeast formula that supports gastrointestinal health, promotes healthy immune responses, and helps protect against harmful pathogens. By encouraging microbiome diversity, binding toxins, and promoting a balanced inflammatory response, SBC can be used during detoxification protocols, post-antibiotic therapy, or for ongoing gut maintenance. It is non-pathogenic and resistant to antibiotics, making it safe for concurrent use with antimicrobial supplements.",
+      "is_active": true
+    },
+    {
+      "_id": "supplement_024",
+      "name": "SPM",
+      "productLink": "https://shop.holistichealthroute.com/spm-60-ct.html",
+      "dosage": "Take 2 softgels daily",
+      "description": "SPM (Specialized Pro-Resolving Mediators) is a cutting-edge supplement that supports the body's natural resolution of inflammation. Derived from omega-3 fatty acids, SPMs help reduce inflammatory load, promote tissue repair, and support immune balance without suppressing the immune system. This formula is ideal for those with chronic inflammation, recovery needs, or immune-related concerns.",
+      "is_active": true
+    },
+    {
+      "_id": "supplement_025",
+      "name": "Super B Complete",
+      "productLink": "https://shop.holistichealthroute.com/super-b-complete-60-veg-capsules.html",
+      "dosage": "Take 1 capsule daily with a meal",
+      "description": "Super B Complete is a full-spectrum B vitamin complex providing all eight essential B vitamins in bioavailable forms, including methylated folate (5-MTHF) and methylcobalamin. B vitamins are critical for energy production, nervous system health, red blood cell formation, and detoxification processes. This formula supports healthy stress response, cognitive function, and metabolism, making it a daily essential for overall wellness.",
+      "is_active": true
+    },
+    {
+      "_id": "supplement_026",
+      "name": "Super Biotics",
+      "productLink": "https://shop.holistichealthroute.com/super-biotics-60-veg-capsules.html",
+      "dosage": "Take 1 capsule twice daily",
+      "description": "Super Biotics is a broad-spectrum probiotic formula delivering over 50 billion CFU from multiple strains of beneficial bacteria, including Lactobacillus, Bifidobacterium, and Streptococcus thermophilus. This powerful blend supports digestive balance, nutrient absorption, and immune function. Delayed-release vegetable capsules protect the probiotics from stomach acid, ensuring optimal delivery to the intestines for maximum effectiveness.",
+      "is_active": true
+    },
+    {
+      "_id": "supplement_027",
+      "name": "Super K2 Plus",
+      "productLink": "https://shop.holistichealthroute.com/super-k2-plus-60ct.html",
+      "dosage": "Take 1 capsule one time per day",
+      "description": "Super K2 Plus combines vitamin K2 (as MK-7) with vitamin K1 and other supportive nutrients to promote proper calcium metabolism and bone mineralization. By guiding calcium into the bones and away from soft tissues and arteries, it helps maintain cardiovascular health while strengthening skeletal structure. Ideal for pairing with vitamin D3 for enhanced synergy and effectiveness.",
+      "is_active": true
+    },
+    {
+      "_id": "supplement_028",
+      "name": "Super Zinc 50",
+      "productLink": "https://shop.holistichealthroute.com/super-zinc-50-120-ct-120-vegtarian-capsules.html",
+      "dosage": "Take 1 capsules daily with a meal",
+      "description": "Super Zinc 50 provides 50 mg of zinc in the bioavailable amino acid chelate form (zinc glycinate), ensuring optimal absorption without causing stomach upset. Zinc is critical for immune defense, wound healing, skin health, hormone production, and reproductive function. This high-potency formula is ideal for short-term immune support or addressing significant zinc deficiencies.",
+      "is_active": true
+    },
+    {
+      "_id": "supplement_029",
+      "name": "Thyro Complete",
+      "productLink": "https://shop.holistichealthroute.com/thyro-complete-60-capsules.html",
+      "dosage": "Take 2 capsules daily",
+      "description": "A comprehensive thyroid support formula combining essential vitamins, minerals, and glandulars. Designed to help maintain healthy thyroid function, support energy production, and promote balanced metabolism.",
+      "is_active": true
+    }
+]

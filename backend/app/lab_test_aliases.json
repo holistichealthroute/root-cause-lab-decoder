@@ -1,0 +1,244 @@
+{
+  "labTests": [
+    {
+      "officialName": "ALT",
+      "aliases": ["SGPT", "Alanine Aminotransferase"],
+      "units": ["U/L", "IU/L"]
+    },
+    {
+      "officialName": "AST",
+      "aliases": ["SGOT", "Aspartate Aminotransferase"],
+      "units": ["U/L", "IU/L"]
+    },
+    {
+      "officialName": "Albumin",
+      "aliases": ["Alb", "Serum Albumin"],
+      "units": ["g/dL", "g/L"]
+    },
+    {
+      "officialName": "Alkaline Phosphatase",
+      "aliases": ["ALP", "Alk Phos"],
+      "units": ["U/L", "IU/L"]
+    },
+    {
+      "officialName": "BUN",
+      "aliases": ["Urea Nitrogen"],
+      "units": ["mmol/L (urea)", "mg/dL"]
+    },
+    {
+      "officialName": "Basophils %",
+      "aliases": ["Baso %", "Basos"],
+      "units": ["%"]
+    },
+    {
+      "officialName": "Bilirubin Total",
+      "aliases": ["Bili", "TBili", "Total Bilirubin"],
+      "units": ["μmol/L", "mg/dL"]
+    },
+    {
+      "officialName": "CO2",
+      "aliases": ["CO₂", "Bicarbonate", "HCO₃", "Total CO₂"],
+      "units": ["mEq/L", "mmol/L"]
+    },
+    {
+      "officialName": "Calcium",
+      "aliases": ["Ca", "Serum Calcium"],
+      "units": ["mmol/L", "mg/dL"]
+    },
+    {
+      "officialName": "Chloride",
+      "aliases": ["Cl", "Serum Chloride"],
+      "units": ["mEq/L", "mmol/L"]
+    },
+    {
+      "officialName": "Creatinine",
+      "aliases": ["Cr", "Serum Creatinine"],
+      "units": ["μmol/L", "mg/dL"]
+    },
+    {
+      "officialName": "Eosinophils %",
+      "aliases": ["Eos %", "Eos"],
+      "units": ["%"]
+    },
+    {
+      "officialName": "Globulin",
+      "aliases": ["Glob", "Serum Globulin"],
+      "units": ["g/dL", "g/L"]
+    },
+    {
+      "officialName": "Glucose",
+      "aliases": ["Glu", "Fasting Glucose", "Serum Glucose"],
+      "units": ["mmol/L", "mg/dL"]
+    },
+    {
+      "officialName": "Hematocrit",
+      "aliases": ["Hct", "Packed Cell Volume", "PCV"],
+      "units": ["fraction (0-1)", "%"]
+    },
+    {
+      "officialName": "Hemoglobin",
+      "aliases": ["Hgb", "Hb"],
+      "units": ["g/L", "g/dL"]
+    },
+    {
+      "officialName": "Lymphocytes %",
+      "aliases": ["Lymph %", "Lymphs"],
+      "units": ["%"]
+    },
+    {
+      "officialName": "MCH",
+      "aliases": ["Mean Cell Hemoglobin"],
+      "units": ["pg"]
+    },
+    {
+      "officialName": "MCHC",
+      "aliases": ["Mean Cell Hemoglobin Concentration"],
+      "units": ["g/L", "g/dL"]
+    },
+    {
+      "officialName": "MCV",
+      "aliases": ["Mean Cell Volume"],
+      "units": ["fL"]
+    },
+    {
+      "officialName": "Monocytes %",
+      "aliases": ["Mono %", "Monos"],
+      "units": ["%"]
+    },
+    {
+      "officialName": "Neutrophils %",
+      "aliases": ["Neut %", "Segs", "Polys"],
+      "units": ["%"]
+    },
+    {
+      "officialName": "Platelets",
+      "aliases": ["PLT", "Thrombocytes"],
+      "units": ["x10⁹/L", "x10³/μL"]
+    },
+    {
+      "officialName": "Potassium",
+      "aliases": ["K", "Serum Potassium"],
+      "units": ["mEq/L", "mmol/L"]
+    },
+    {
+      "officialName": "Protein, Total",
+      "aliases": ["Total Protein", "Serum Protein"],
+      "units": ["g/dL", "g/L"]
+    },
+    {
+      "officialName": "RDW",
+      "aliases": ["RDW-CV", "RDW-SD"],
+      "units": ["ratio", "%"]
+    },
+    {
+      "officialName": "Red Blood Cells",
+      "aliases": ["RBC", "Erythrocytes"],
+      "units": ["x10¹²/L", "x10⁶/μL"]
+    },
+    {
+      "officialName": "Sodium",
+      "aliases": ["Na", "Serum Sodium"],
+      "units": ["mEq/L", "mmol/L"]
+    },
+    {
+      "officialName": "Vitamin D",
+      "aliases": ["Vit D", "25(OH)D", "25-Hydroxy Vitamin D", "Calcidiol"],
+      "units": ["nmol/L", "ng/mL"]
+    },
+    {
+      "officialName": "White Blood Cells",
+      "aliases": ["WBC", "White Cell Count", "Leukocytes"],
+      "units": ["x10⁹/L", "x10³/μL"]
+    },
+    {
+      "officialName": "AST/ALT/ALP",
+      "aliases": ["CMP - AST/ALT/ALP"],
+      "units": ["U/L", "IU/L"]
+    },
+    {
+      "officialName": "Iron - Serum Iron",
+      "aliases": ["Serum Iron"],
+      "units": ["μmol/L", "μg/dL"]
+    },
+    {
+      "officialName": "Iron - TIBC",
+      "aliases": ["Total Iron Binding Capacity", "TIBC"],
+      "units": ["μmol/L", "μg/dL"]
+    },
+    {
+      "officialName": "Iron - Transferrin Saturation",
+      "aliases": ["Transferrin Saturation"],
+      "units": ["ratio", "%"]
+    },
+    {
+      "officialName": "Iron - Ferritin",
+      "aliases": ["Ferritin"],
+      "units": ["μg/L", "ng/mL"]
+    },
+    {
+      "officialName": "HbA1c",
+      "aliases": ["Hemoglobin A1c", "Glycated Hemoglobin"],
+      "units": ["mmol/mol (IFCC)", "% (NGSP)"]
+    },
+    {
+      "officialName": "HbA1c → eAG",
+      "aliases": ["Estimated Average Glucose"],
+      "units": ["mmol/L", "mg/dL"]
+    },
+    {
+      "officialName": "Lipid - Total/LDL/HDL",
+      "aliases": ["Total Cholesterol", "LDL", "HDL"],
+      "units": ["mmol/L", "mg/dL"]
+    },
+    {
+      "officialName": "Lipid - Triglycerides",
+      "aliases": ["Triglycerides"],
+      "units": ["mmol/L", "mg/dL"]
+    },
+    {
+      "officialName": "Lipid Ratios",
+      "aliases": ["Cholesterol Ratios"],
+      "units": ["unitless"]
+    },
+    {
+      "officialName": "TSH",
+      "aliases": ["Thyroid Stimulating Hormone"],
+      "units": ["mIU/L", "μIU/mL"]
+    },
+    {
+      "officialName": "Free T4",
+      "aliases": ["FT4", "Free Thyroxine"],
+      "units": ["pmol/L", "ng/dL"]
+    },
+    {
+      "officialName": "Free T3",
+      "aliases": ["FT3", "Free Triiodothyronine"],
+      "units": ["pmol/L", "pg/mL"]
+    },
+    {
+      "officialName": "Total T4",
+      "aliases": ["T4", "Thyroxine"],
+      "units": ["nmol/L", "μg/dL"]
+    },
+    {
+      "officialName": "Total T3",
+      "aliases": ["T3", "Triiodothyronine"],
+      "units": ["nmol/L", "ng/dL"]
+    },
+    {
+      "officialName": "TPO",
+      "aliases": ["Thyroid Peroxidase Antibodies", "TPOAb"],
+      "units": ["IU/mL", "units"]
+    },
+    {
+      "officialName": "Thyroid Antibodies",
+      "aliases": ["TPO", "TG", "TSI"],
+      "units": ["IU/L", "IU/mL"]
+    },
+    {
+      "officialName": "Vitamin B12",
+      "aliases": ["B12", "Cobalamin"],
+      "units": ["pmol/L", "pg/mL"]
+    }
+  ]
+}

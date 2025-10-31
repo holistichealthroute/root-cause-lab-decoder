@@ -1,0 +1,847 @@
+[
+    {
+      "marker": "WBC",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 5,
+      "functionalHigh": 8,
+      "measurementUnits": "x10³/µL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_011"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_011"]
+      }
+    },
+    {
+      "marker": "RBC",
+      "gender": "Male",
+      "menstruation_status": "None",
+      "functionalLow": 4.4,
+      "functionalHigh": 4.9,
+      "measurementUnits": "x10⁶/µL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_007"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_025"]
+      }
+    },
+    {
+      "marker": "RBC",
+      "gender": "Female",
+      "menstruation_status": "None",
+      "functionalLow": 3.9,
+      "functionalHigh": 4.5,
+      "measurementUnits": "x10⁶/µL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_007"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_025"]
+      }
+    },
+    {
+      "marker": "Hemoglobin",
+      "gender": "Male",
+      "menstruation_status": "None",
+      "functionalLow": 14,
+      "functionalHigh": 15,
+      "measurementUnits": "g/dL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_007"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_025"]
+      }
+    },
+    {
+      "marker": "Hemoglobin",
+      "gender": "Female",
+      "menstruation_status": "None",
+      "functionalLow": 13.5,
+      "functionalHigh": 14.5,
+      "measurementUnits": "g/dL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_007"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_025"]
+      }
+    },
+    {
+      "marker": "Hematocrit",
+      "gender": "Male",
+      "menstruation_status": "None",
+      "functionalLow": 39,
+      "functionalHigh": 55,
+      "measurementUnits": "%",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_007"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_025"]
+      }
+    },
+    {
+      "marker": "Hematocrit",
+      "gender": "Female",
+      "menstruation_status": "None",
+      "functionalLow": 37,
+      "functionalHigh": 44,
+      "measurementUnits": "%",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_007"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_025"]
+      }
+    },
+    {
+      "marker": "MCV",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 85,
+      "functionalHigh": 92,
+      "measurementUnits": "fL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_007"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_025"]
+      }
+    },
+    {
+      "marker": "MCH",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 27.7,
+      "functionalHigh": 32,
+      "measurementUnits": "pg",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_007"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_025"]
+      }
+    },
+    {
+      "marker": "MCHC",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 32,
+      "functionalHigh": 36,
+      "measurementUnits": "g/dL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_007"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_025"]
+      }
+    },
+    {
+      "marker": "RDW",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 11.7,
+      "functionalHigh": 15,
+      "measurementUnits": "%",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_007"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_025"]
+      }
+    },
+    {
+      "marker": "Platelets",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 155000,
+      "functionalHigh": 379000,
+      "measurementUnits": "x10³/µL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_018", "supplement_003"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_018", "supplement_003"]
+      }
+    },
+    {
+      "marker": "Neutrophils",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 40,
+      "functionalHigh": 60,
+      "measurementUnits": "%",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_011", "supplement_023", "supplement_022", "supplement_008"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_022", "supplement_002", "supplement_009", "supplement_023", "supplement_008"]
+      }
+    },
+    {
+      "marker": "Lymphocytes",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 25,
+      "functionalHigh": 30,
+      "measurementUnits": "%",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_011", "supplement_028", "supplement_004", "supplement_022", "supplement_008"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_022", "supplement_004", "supplement_011", "supplement_028", "supplement_008"]
+      }
+    },
+    {
+      "marker": "Monocytes",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 4,
+      "functionalHigh": 7,
+      "measurementUnits": "%",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_022", "supplement_004", "supplement_015", "supplement_028", "supplement_014", "supplement_008"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_022", "supplement_015", "supplement_028", "supplement_014", "supplement_008"]
+      }
+    },
+    {
+      "marker": "Eosinophils",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 0,
+      "functionalHigh": 3,
+      "measurementUnits": "%",
+      "ifLow": {
+        "directive": "",
+        "supplements": []
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_019", "supplement_017", "supplement_026", "supplement_009", "supplement_008"]
+      }
+    },
+    {
+      "marker": "Basophils",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 0,
+      "functionalHigh": 1,
+      "measurementUnits": "%",
+      "ifLow": {
+        "directive": "",
+        "supplements": []
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_019", "supplement_017", "supplement_026", "supplement_009", "supplement_008"]
+      }
+    },
+    {
+      "marker": "Sodium",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 135,
+      "functionalHigh": 140,
+      "measurementUnits": "mmol/L",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_001", "supplement_020"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_001"]
+      }
+    },
+    {
+      "marker": "Potassium",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 4,
+      "functionalHigh": 4.5,
+      "measurementUnits": "mmol/L",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_001", "supplement_020"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_001", "supplement_020"]
+      }
+    },
+    {
+      "marker": "Chloride",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 98,
+      "functionalHigh": 110,
+      "measurementUnits": "mmol/L",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": []
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": []
+      }
+    },
+    {
+      "marker": "CO2",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 23,
+      "functionalHigh": 28,
+      "measurementUnits": "mmol/L",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": []
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": []
+      }
+    },
+    {
+      "marker": "Glucose",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 85,
+      "functionalHigh": 99,
+      "measurementUnits": "mg/dL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_010"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_010"]
+      }
+    },
+    {
+      "marker": "Hemoglobin_A1c",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 4.8,
+      "functionalHigh": 5.6,
+      "measurementUnits": "%",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_010"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list. If result is greater than 6.5, flag as WARNING and advise immediate medical attention.",
+        "supplements": ["supplement_010"]
+      }
+    },
+    {
+      "marker": "BUN",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 10,
+      "functionalHigh": 18,
+      "measurementUnits": "mg/dL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_014"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_013"]
+      }
+    },
+    {
+      "marker": "Creatinine",
+      "gender": "Male",
+      "menstruation_status": "None",
+      "functionalLow": 0.6,
+      "functionalHigh": 1.6,
+      "measurementUnits": "mg/dL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_014"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_013"]
+      }
+    },
+    {
+      "marker": "Creatinine",
+      "gender": "Female",
+      "menstruation_status": "None",
+      "functionalLow": 0.5,
+      "functionalHigh": 1.1,
+      "measurementUnits": "mg/dL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_014"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_013"]
+      }
+    },
+    {
+      "marker": "Calcium",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 9.2,
+      "functionalHigh": 10.1,
+      "measurementUnits": "mg/dL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_005"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_027"]
+      }
+    },
+    {
+      "marker": "Globulin",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 2.4,
+      "functionalHigh": 2.8,
+      "measurementUnits": "g/dL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_012"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_012"]
+      }
+    },
+    {
+      "marker": "Total_Protein",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 6.9,
+      "functionalHigh": 7.4,
+      "measurementUnits": "g/dL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_012"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_012"]
+      }
+    },
+    {
+      "marker": "Albumin",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": null,
+      "functionalHigh": 4.5,
+      "measurementUnits": "g/dL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_003"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_003"]
+      }
+    },
+    {
+      "marker": "Alkaline_Phosphatase",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 44,
+      "functionalHigh": 147,
+      "measurementUnits": "U/L",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_021", "supplement_022"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_014"]
+      }
+    },
+    {
+      "marker": "AST_SGOT",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 10,
+      "functionalHigh": 26,
+      "measurementUnits": "U/L",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_014"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_014"]
+      }
+    },
+    {
+      "marker": "ALT_SGPT",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 10,
+      "functionalHigh": 26,
+      "measurementUnits": "U/L",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_014"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_014"]
+      }
+    },
+    {
+      "marker": "Total_Bilirubin",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 0.1,
+      "functionalHigh": 1.9,
+      "measurementUnits": "mg/dL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_014"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_022", "supplement_014"]
+      }
+    },
+    {
+      "marker": "Total_Cholesterol",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 150,
+      "functionalHigh": 199,
+      "measurementUnits": "mg/dL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": []
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": []
+      }
+    },
+    {
+      "marker": "Triglycerides",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 75,
+      "functionalHigh": 100,
+      "measurementUnits": "mg/dL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": []
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": []
+      }
+    },
+    {
+      "marker": "HDL",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 55,
+      "functionalHigh": 100,
+      "measurementUnits": "mg/dL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": []
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": []
+      }
+    },
+    {
+      "marker": "LDL",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 0,
+      "functionalHigh": 99,
+      "measurementUnits": "mg/dL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": []
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": []
+      }
+    },
+    {
+      "marker": "Cholesterol Pattern",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": null,
+      "functionalHigh": null,
+      "measurementUnits": null,
+      "ifPattern": {
+        "directive": "Flag as PATTERN. Add to out-of-range list.",
+        "condition": "If Triglycerides are not ~½ of Total Cholesterol OR HDL is not ~½ of Triglycerides",
+        "message": "Your cholesterol pattern suggests deeper imbalance. Focus on getting your CBC with differential markers back in range, follow your recommended food plan, and maintain stable blood sugar balance."
+      }
+    },
+    {
+      "marker": "Iron",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 85,
+      "functionalHigh": 130,
+      "measurementUnits": "µg/dL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_007"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": []
+      }
+    },
+    {
+      "marker": "TIBC",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 250,
+      "functionalHigh": 350,
+      "measurementUnits": "µg/dL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": []
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_007"]
+      }
+    },
+    {
+      "marker": "Ferritin",
+      "gender": "Male",
+      "menstruation_status": "None",
+      "functionalLow": 33,
+      "functionalHigh": 236,
+      "measurementUnits": "ng/mL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_007"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": []
+      }
+    },
+    {
+      "marker": "Ferritin",
+      "gender": "Female",
+      "menstruation_status": "Menstruating",
+      "functionalLow": 10,
+      "functionalHigh": 122,
+      "measurementUnits": "ng/mL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_007"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": []
+      }
+    },
+    {
+      "marker": "Ferritin",
+      "gender": "Female",
+      "menstruation_status": "post-menstruation",
+      "functionalLow": 10,
+      "functionalHigh": 263,
+      "measurementUnits": "ng/mL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_007"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": []
+      }
+    },
+    {
+      "marker": "25_Hydroxy_Vitamin_D",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": null,
+      "functionalHigh": 80,
+      "measurementUnits": null,
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_006"]
+      },
+      "ifHigh": {
+        "directive": "",
+        "supplements": []
+      }
+    },
+    {
+      "marker": "Magnesium",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 1.7,
+      "functionalHigh": 2.2,
+      "measurementUnits": "mg/dL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_016"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": []
+      }
+    },
+    {
+      "marker": "TSH",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 0.5,
+      "functionalHigh": 2,
+      "measurementUnits": "mIU/L",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_029"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_029"]
+      }
+    },
+    {
+      "marker": "Free_T3",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 3,
+      "functionalHigh": 4,
+      "measurementUnits": "pg/mL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_029"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_029"]
+      }
+    },
+    {
+      "marker": "Free_T4",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 1,
+      "functionalHigh": 1.5,
+      "measurementUnits": "ng/dL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_029"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_029"]
+      }
+    },
+    {
+      "marker": "Reverse_T3",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 9.2,
+      "functionalHigh": 15,
+      "measurementUnits": "ng/dL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_029"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_029"]
+      }
+    },
+    {
+      "marker": "T3",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 0.8,
+      "functionalHigh": 2,
+      "measurementUnits": "ng/ml",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_029"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_029"]
+      }
+    },
+    {
+      "marker": "T4",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": 4.5,
+      "functionalHigh": 9.8,
+      "measurementUnits": "µg/dL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_029"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_029"]
+      }
+    },
+    {
+      "marker": "Anti_TPO",
+      "gender": "Both",
+      "menstruation_status": "None",
+      "functionalLow": null,
+      "functionalHigh": 35,
+      "measurementUnits": "IU/mL",
+      "ifLow": {
+        "directive": "Flag as LOW. Add to out-of-range list.",
+        "supplements": ["supplement_029"]
+      },
+      "ifHigh": {
+        "directive": "Flag as HIGH. Add to out-of-range list.",
+        "supplements": ["supplement_029"]
+      }
+    }
+  ]
