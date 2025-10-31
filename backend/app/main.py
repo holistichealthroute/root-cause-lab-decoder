@@ -36,7 +36,7 @@ app.state.oauth = oauth
 
 app.add_middleware(
     CORSMiddleware,
-   allow_origins=["*"],         
+   allow_origins=["https://root-cause-lab-decoder-production.up.railway.app"],         
     allow_methods=["*"],            
     allow_headers=["*"],            
 )
