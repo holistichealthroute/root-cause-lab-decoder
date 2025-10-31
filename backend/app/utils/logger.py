@@ -10,7 +10,7 @@ except ImportError as e:
 
 
 def setup_logging(
-    default_path: str | os.PathLike = Path(__file__).with_name("logging.yaml"),
+    default_path: str | os.PathLike = Path(__file__).with_name("Nlog.yaml"),
     default_level: int = logging.INFO,
     env_key: str = "LOG_CFG",
 ) -> None:
